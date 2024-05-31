@@ -7,7 +7,7 @@ const juegos = [
         "plataformas" : "Steam",
         "precio" : 40000,
         "stock" : "Solo clave digital",
-        "imagen" : "https://i.imgur.com/XARwyyf.jpeg"
+        "imagen" : "https://blog.latam.playstation.com/tachyon/sites/3/2023/05/f1d84d4b4ab8f17d61f663da47d92f508897ceab.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5"
     },
     {
         "id": 2,
