@@ -3,45 +3,45 @@ const juegos = [
     {
         "id": 1,
         "nombre": "Helldivers 2",
-        "Categoria" : "Accion",
-        "Plataformas" : "Steam",
-        "Precio" : 40000,
-        "Stock" : "Solo clave digital",
-        "Imagen" : "https://i.imgur.com/XARwyyf.jpeg"
+        "categoria" : "Accion",
+        "plataformas" : "Steam",
+        "precio" : 40000,
+        "stock" : "Solo clave digital",
+        "imagen" : "https://i.imgur.com/XARwyyf.jpeg"
     },
     {
         "id": 2,
-        "Nombre": "Dragon Dogma 2",
-        "Categoria" : "RPG",
-        "Plataformas" : "Steam",
-        "Precio" : 60000,
-        "Stock" : "Solo clave digital"
+        "nombre": "Dragon Dogma 2",
+        "categoria" : "RPG",
+        "plataformas" : "Steam",
+        "precio" : 60000,
+        "stock" : "Solo clave digital"
         
     },
     {
         "id": 3,
         "nombre": "Tekken 8",
-        "Categoria" : "Accion",
-        "Plataformas" : "Steam",
-        "Precio" : 48000,
-        "Stock" : "Solo clave digital"
+        "categoria" : "Accion",
+        "plataformas" : "Steam",
+        "precio" : 48000,
+        "stock" : "Solo clave digital"
     },
     {
         "id": 4,
-        "Nombre": "Yakuza 0",
-        "Categoria" : "Accion",
-        "Plataformas" : "Steam",
-        "Precio" : 15000,
-        "Stock" : "Solo clave digital"
+        "nombre": "Yakuza 0",
+        "categoria" : "Accion",
+        "plataformas" : "Steam",
+        "precio" : 15000,
+        "stock" : "Solo clave digital"
         
     },
     {
         "id": 5,
-        "Nombre": "Grand Theft Auto V",
-        "Categoria" : "Accion",
-        "Plataformas" : "Steam",
-        "Precio" : 20000,
-        "Stock" : "Solo clave digital"
+        "nombre": "Grand Theft Auto V",
+        "categoria" : "Accion",
+        "plataformas" : "Steam",
+        "precio" : 20000,
+        "stock" : "Solo clave digital"
         
     }
 ];
