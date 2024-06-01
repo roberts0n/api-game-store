@@ -55,6 +55,17 @@ const juegos = [
     },
     {
         "id": 6,
+        "nombre": "NBA 2K24",
+        "categoria" : "Deportes",
+        "plataformas" : "Steam",
+        "descripcion" : "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
+        "precio" : 60000,
+        "stock" : "Solo clave digital",
+        "imagen" : "https://image.api.playstation.com/vulcan/ap/rnd/202306/2609/21f172c0b0cfa1874e75d38c672a2961b0db4d02f6e93c5d.jpg"
+        
+    },
+    {
+        "id": 7,
         "nombre": "Bloodborne",
         "categoria" : "Accion",
         "plataformas" : "Playstation",
@@ -62,7 +73,56 @@ const juegos = [
         "precio" : 20000,
         "stock" : "Juego disponible",
         "imagen" : "https://wallpapercave.com/wp/wp7546334.jpg"
-        
+    },
+    {
+        "id": 8,
+        "nombre": "God of War Ragnarok",
+        "categoria" : "Accion",
+        "plataformas" : "Playstation",
+        "descripcion" : "Desde Santa Monica Studio llega la secuela del aclamado por la crítica God of War (2018). Fimbulvetr ya está en camino. Kratos y Atreus deben viajar a cada uno de los nueve reinos en búsqueda de respuestas, mientras que las fuerzas asgardianas se preparan para una batalla profetizada que terminará con el mundo.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/09/god-war-ragnarok-2466115.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "MLB The Show 24",
+        "categoria" : "Deportes",
+        "plataformas" : "Playstation",
+        "descripcion" : "Lánzate por las barreras, vive momentos decisivos, conviértete en una leyenda y haz realidad tus sueños de béisbol. Emprende el camino hacia la grandeza del béisbol, lo que sea que quieras lograr, MLB The Show 24 tiene todo lo que necesitas.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000069925/b77a4d7290011650192b4336b7d2cc5bbfbd1c9222dc9f155c444b630affd2a2"
+    },
+    {
+        "id": 10,
+        "nombre": "Final Fantasy VII Rebirth",
+        "categoria" : "RPG",
+        "plataformas" : "Playstation",
+        "descripcion" : "Final Fantasy VII Rebirth es la segunda entrega dentro del proyecto de remake de Final Fantasy VII, que vuelve a contar la historia del RPG que redefinió el género en tres juegos distintos.Los héroes icónicos Cloud, Barret, Tifa, Aeris y Red XIII han escapado de la distópica ciudad de Midgar y ahora están en busca de Sefirot, el vengativo espadachín del pasado de Cloud a quien se creía muerto.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://4kwallpapers.com/images/walls/thumbs_3t/13682.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Spiderman 2 PS5",
+        "categoria" : "Accion",
+        "plataformas" : "Playstation",
+        "descripcion" : "Los Spider-Men Peter Parker y Miles Morales regresan para una nueva y emocionante aventura de la aclamada franquicia Marvel's Spider-Man para PS5.Balancéate, salta y utiliza las nuevas alas de telaraña para recorrer toda la ciudad de Nueva York de Marvel. También podrás cambiar rápidamente entre Peter Parker y Miles Morales para vivir diferentes historias y canalizar poderes nuevos y épicos, mientras el emblemático villano Venom amenaza con destruir sus vidas, la ciudad y a todos sus seres queridos.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/e66c4ae18c5d8e3986a24599b293162a6f5c9eba22968d2c.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "The Last Of Us Parte II",
+        "categoria" : "Accion",
+        "plataformas" : "Playstation",
+        "descripcion" : "Cinco años después de su peligroso viaje a través de unos Estados Unidos pospandemia, Ellie y Joel logran establecerse en Jackson, Wyoming. Vivir entre una próspera comunidad de sobrevivientes les ha concedido paz y estabilidad, a pesar de la amenaza constante de los infectados y de otros sobrevivientes más desesperados.",
+        "precio" : 30000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://images.alphacoders.com/109/1090800.jpg"
     }
 ];
 
