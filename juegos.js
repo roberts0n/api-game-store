@@ -47,6 +47,16 @@ const juegos = [
         "stock" : "Solo clave digital",
         "imagen" : "https://i.pinimg.com/originals/b3/41/0a/b3410a93baab7154a78187222b753f27.jpg"
         
+    },
+    {
+        "id": 6,
+        "nombre": "Bloodborne",
+        "categoria" : "Accion",
+        "plataformas" : "Playstation",
+        "precio" : 20000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://wallpapercave.com/wp/wp7546334.jpg"
+        
     }
 ];
 
