@@ -123,6 +123,76 @@ const juegos = [
         "precio" : 30000,
         "stock" : "Juego disponible",
         "imagen" : "https://images.alphacoders.com/109/1090800.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Halo Infinite (Campaña)",
+        "categoria" : "Accion",
+        "plataformas" : "Xbox",
+        "descripcion" : "Cuando se pierde toda esperanza y el destino de la humanidad pende de un hilo, el Jefe Maestro está listo para enfrentarse al enemigo más despiadado que jamás haya enfrentado. Colócate la armadura del mayor héroe de la humanidad para disfrutar de una aventura épica y explorar la escala masiva del anillo de Halo.",
+        "precio" : 50000,
+        "stock" : "Solo clave digital",
+        "imagen" : "https://generacionxbox.com/wp-content/uploads/2023/10/halo-infinite.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Forza Horizon 5",
+        "categoria" : "Deportes",
+        "plataformas" : "Xbox",
+        "descripcion" : " ¡Tu aventura Horizon por excelencia te espera! Explora los dinámicos paisajes abiertos al mundo y en constante evolución de México con una acción de conducción ilimitada en cientos de los mejores autos del mundo.",
+        "precio" : 60000,
+        "stock" : "Solo clave digital",
+        "imagen" : "https://stevivor.com/wp-content/uploads/2021/11/ForzaHorizon5-5.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Hi-Fi Rush",
+        "categoria" : "RPG",
+        "plataformas" : "Xbox",
+        "descripcion" : "Siente el ritmo en la piel del aspirante a estrella de rock Chai y su equipo excéntrico de aliados, que se enfrentan a una malvada megacorporación de implantes robóticos en atronadores combates de ritmo. De la mano de Tango Gameworks, el estudio que creó The Evil Within® y Ghostwire®: Tokyo (sí, en serio), llega Hi-Fi RUSH, un nuevo juego de acción en el que los personajes, el mundo y el combate se sincronizan con la música.",
+        "precio" : 30000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://image.api.playstation.com/vulcan/ap/rnd/202402/0615/d43c37531eebd656aba2bbf4ce2b4af7aed4507bf9bb3a7c.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Starfield",
+        "categoria" : "RPG",
+        "plataformas" : "Xbox",
+        "descripcion" : "Starfield es el primer universo nuevo en más de 25 años de Bethesda Game Studios, los galardonados creadores de The Elder Scrolls V: Skyrim y Fallout 4. En este juego de rol de próxima generación ambientado entre las estrellas, podrás crear el personaje que desees y explorar con una libertad sin precedentes mientras te embarcas en un viaje épico para desentrañar el mayor misterio de la humanidad.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://xxboxnews.blob.core.windows.net/prod/sites/3/StarfieldShowcase_HERO-08ca6fb8a9fb24bb3e27.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Microsoft Flight Simulator",
+        "categoria" : "Deportes",
+        "plataformas" : "Xbox",
+        "descripcion" : "Desde aeronaves ligeros hasta aviones de fuselaje ancho, vuela con los aviones más detallados y precisos en la nueva generación del Microsoft Flight Simulator. Pon a prueba tus habilidades de pilotaje en el reto del vuelo nocturno, la simulación atmosférica en tiempo real y las condiciones climáticas en directo en un mundo dinámico y vivo. Crea tu plan de vuelo hacia cualquier parte del planeta. El mundo está al alcance de la mano.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://store-images.s-microsoft.com/image/apps.14552.14225646405929875.caa15904-a719-4482-af91-89f61fda4af0.1945d679-7ca8-4417-9a0d-ee0e9624e1cd"
+    },
+    {
+        "id": 18,
+        "nombre": "Sekiro",
+        "categoria" : "Accion",
+        "plataformas" : "Xbox",
+        "descripcion" : "En Sekiro™: Shadows Die Twice encarnas al 'lobo manco', un guerrero desfigurado y caído en desgracia que ha sido rescatado al borde de la muerte. Tras jurar proteger a un joven señor descendiente de un antiguo linaje, te conviertes en el objetivo de despiadados enemigos, entre ellos el peligroso clan Ashina. Cuando el joven señor es capturado, nada te detendrá en tu peligrosa aventura por restituir tu honor, ni siquiera la muerte.",
+        "precio" : 40000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://generacionxbox.com/wp-content/uploads/2018/06/sekiro__shadows_die_twice_gx.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "",
+        "categoria" : "",
+        "plataformas" : "",
+        "descripcion" : " ",
+        "precio" : 60000,
+        "stock" : "",
+        "imagen" : ""
     }
 ];
 
