@@ -186,13 +186,63 @@ const juegos = [
     },
     {
         "id": 19,
-        "nombre": "",
-        "categoria" : "",
-        "plataformas" : "",
-        "descripcion" : " ",
+        "nombre": "Super Mario Wonder",
+        "categoria" : "Accion",
+        "plataformas" : "Switch",
+        "descripcion" : "El estilo de juego clásico de los juegos de Mario será toda una locura con la adición de la Flor Maravilla en el juego Super Mario Bros. Wonder! Estos revolucionarios objetos activarán espectaculares momentos que tendrás que ver para creer. ¡Mira cómo las tuberías cobran vida, siembra el caos como una inmensa bola con picos y mucho más!",
         "precio" : 60000,
-        "stock" : "",
-        "imagen" : ""
+        "stock" : "Juego disponible",
+        "imagen" : "https://www.cinelinx.com/wp-content/uploads/2023/09/IMG_7333.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Pokemon Violet",
+        "categoria" : "RPG",
+        "plataformas" : "Switch",
+        "descripcion" : "Atrapa, combate y entrena Pokémon en la región de Paldea, una vasta tierra llena de lagos, cimas montañosas, páramos, poblaciones pequeñas y grandes ciudades. Explora un mundo completamente abierto a tu propio paso y recorre a través de la tierra, el agua y el aire a lomos del Pokémon legendario Koraidon, que puede cambiar de forma en Pokémon Scarlet, o sobre el Pokémon legendario Miraidon, que puede cambiar de forma en Pokémon Violet.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000053971/842b2784d91520d41a947dec17fac116fec889bb1f1db4023615af8429dae00d"
+    },
+    {
+        "id": 21,
+        "nombre": "Pokemon Scarlet",
+        "categoria" : "RPG",
+        "plataformas" : "Switch",
+        "descripcion" : "Atrapa, combate y entrena Pokémon en la región de Paldea, una vasta tierra llena de lagos, cimas montañosas, páramos, poblaciones pequeñas y grandes ciudades. Explora un mundo completamente abierto a tu propio paso y recorre a través de la tierra, el agua y el aire a lomos del Pokémon legendario Koraidon, que puede cambiar de forma en Pokémon Scarlet, o sobre el Pokémon legendario Miraidon, que puede cambiar de forma en Pokémon Violet.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000053966/849c234de8df7265201d26d9d72f88eed3f32438d3dca12fc135beb4c3befc85"
+    },
+    {
+        "id": 22,
+        "nombre": "Final Fantasy X/X-2 HD Remaster",
+        "categoria" : "RPG",
+        "plataformas" : "Switch",
+        "descripcion" : " FINAL FANTASY X/X-2 HD Remaster brinda dos juegos inolvidables a la generación actual para los fans nuevos y de siempre. FINAL FANTASY X narra la historia de Tidus, una estrella del blitzbol que se embarca junto a la hermosa invocadora Yuna en una misión para poner fin a la espiral de destrucción que una terrible amenaza conocida como 'Sinh' ha provocado en el mundo de Spira.",
+        "precio" : 30000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000015381/d0268be3a717ed2ded03fa77aea451e4cb0e95045ad80da3a726439fe258eb88"
+    },
+    {
+        "id": 23,
+        "nombre": "Monster Hunter Generations Ultimate",
+        "categoria" : "RPG",
+        "plataformas" : "Switch",
+        "descripcion" : "¡Se levanta la veda! Esta serie de juegos de rol de acción aclamada por la crítica hace su debut en Nintendo Switch. ¡Participa en épicas cacerías estés donde estés o desde la comodidad de tu sofá! ¡Elige entre 14 tipos diferentes de armas y combínalas con estilos y artes de caza únicos, o prueba a jugar como un adorable pero feroz felyne en el modo Gatador! Descubre el mayor elenco de monstruos de ningún juego de la serie hasta la fecha, desde favoritos de los fans a otros misteriosos nunca vistos antes.",
+        "precio" : 30000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000004642/f4d5e5f0a8adb2a663d2763f2244e6ce5c5978034b992a15c16262391725f064"
+    },
+    {
+        "id": 24,
+        "nombre": "Mario Golf Super Rush",
+        "categoria" : "Deportes",
+        "plataformas" : "Switch",
+        "descripcion" : "Adéntrate en el campo de golf con hasta cuatro jugadores de manera local* o en línea** y ¡juega en compañía de reconocidos personajes de la serie de Super Mario™ como Mario, Peach, Yoshi y más! Hay una gran variedad de modos, desde el golf tradicional hasta el energético golf rápido, e incluso el emocionante modo Aventura de golf. Los intuitivos controles por movimiento o el uso de botones facilitan el juego para los jugadores novatos y los más profesionales.",
+        "precio" : 60000,
+        "stock" : "Juego disponible",
+        "imagen" : "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000038622/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b"
     }
 ];
 
